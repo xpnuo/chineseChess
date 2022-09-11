@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/affirm.jpg</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/backGroung.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/blackJiang.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/blackMa.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/blackPao.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/blackShi.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/blackXiang.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/blackZhu.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/blackZu.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/close.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/enter.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/login.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/redBing.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/redJiang.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/redMa.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/redPao.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/redShi.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/redXiang.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/redZhu.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/return.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/enter_backgrond.jpg</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/headImage.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/coordinate.png</file>
+        <file>C:/Users/xupeng/Desktop/ChinaChees/image/select.png</file>
+    </qresource>
+</RCC>
